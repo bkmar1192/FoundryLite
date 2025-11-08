@@ -1,0 +1,18 @@
+{
+  "id": "scene-mirror",
+  "title": "Scene Image Mirror",
+  "version": "1.3.9",
+  "description": "Mirror active scene to WebP and maintain combat.json for DnD5e with HP, condition, ability scores, saving throws, and Armor Class. Updates on Begin/End and turn changes.",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "esmodules": [
+    "module.js"
+  ],
+  "authors": [
+    {
+      "name": "You"
+    }
+  ]
+}

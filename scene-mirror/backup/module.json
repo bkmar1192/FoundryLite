@@ -1,0 +1,8 @@
+{
+  "id": "scene-mirror",
+  "title": "Scene Image Mirror",
+  "version": "1.0.0",
+  "compatibility": { "minimum": 11, "verified": 11 },
+  "esmodules": ["module.js"],
+  "authors": [{ "name": "Bert" }]
+}
